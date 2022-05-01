@@ -1,4 +1,4 @@
-package br.com.kanasha
+package br.com.kanasha.estruturada
 
 fun main() {
     // Hello World

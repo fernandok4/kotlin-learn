@@ -1,4 +1,4 @@
-package br.com.kanasha
+package br.com.kanasha.estruturada
 
 import java.math.BigDecimal
 
@@ -34,7 +34,6 @@ fun main() {
 
 
     /*
-    Kotlin é uma linguagem de tipagem estatica, porém, o compilador é inteligente o suficiente para entender qual é o tipo
-    da variavel que você está criando a partir do valor que você passou para ela.
+
      */
 }
